@@ -22,4 +22,4 @@ If the repository is named exactly `YOUR-GITHUB-USERNAME.github.io`, the URL wil
 
 - Instagram: https://instagram.com/17.akramv
 - Discord: https://discord.com/users/17.abu
-- Telegram: https://t.me/aurenbou
+- Telegram: https://t.me/@l7akramov
